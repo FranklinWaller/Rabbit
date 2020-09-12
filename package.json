@@ -69,7 +69,7 @@
         "keccak": "^1.4.0",
         "memorystream": "^0.3.1",
         "merkle-patricia-tree": "^3.0.0",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.1",
         "pouchdb": "^7.1.1",
         "pouchdb-find": "^7.1.1",
         "pouchdb-replication-stream": "^1.2.9",
